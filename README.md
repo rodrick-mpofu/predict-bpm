@@ -53,8 +53,8 @@ The dataset contains various audio features that can be used to predict a song's
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/[username]/kaggle-bpm-prediction.git
-cd kaggle-bpm-prediction
+git clone https://github.com/[username]/predict-bpm.git
+cd predict-bpm
 ```
 
 2. Install required packages:
